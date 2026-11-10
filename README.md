@@ -19,8 +19,6 @@ Going deep on EU cybersecurity regulation (DORA, NIS2, MaRisk, BAIT), cloud secu
 - Splunk Core Certified User
   [View badge on Credly](https://www.credly.com/badges/f37e6d8f-7a66-4fee-ae78-7c30f8fd4b16/public_url)
 
-Currently preparing for the Claude Certified Architect Professional (CCAR-P) and the IAPP Artificial Intelligence Governance Professional (AIGP).
-
 ## Projects
 
 - [CISSP practice exams](https://github.com/surenderdhonapati/cissp-practice-exams): four free adaptive practice exams, 600 items on the ISC2 outline, running entirely in the browser. Not affiliated with ISC2.

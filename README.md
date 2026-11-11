@@ -23,6 +23,8 @@ Going deep on EU cybersecurity regulation (DORA, NIS2, MaRisk, BAIT), cloud secu
 
 - [CISSP practice exams](https://github.com/surenderdhonapati/cissp-practice-exams): four free adaptive practice exams, 600 items on the ISC2 outline, running entirely in the browser. Not affiliated with ISC2.
 
+All projects here are personal work, built in my own time, independent of any employer past or present.
+
 ## Focus areas
 
 - EU regulatory frameworks for cybersecurity and ICT risk: DORA, NIS2, MaRisk, BAIT

@@ -22,6 +22,7 @@ Going deep on EU cybersecurity regulation (DORA, NIS2, MaRisk, BAIT), cloud secu
 ## Projects
 
 - [CISSP practice exams](https://github.com/surenderdhonapati/cissp-practice-exams): four free adaptive practice exams, 600 items on the ISC2 outline, running entirely in the browser. Not affiliated with ISC2.
+- [CISM practice exams](https://github.com/surenderdhonapati/cism-practice-exams): four free linear practice exams, 600 items on the ISACA CISM outline 2026, two untimed with explanations and two timed at 240 minutes, running entirely in the browser. Not affiliated with ISACA.
 
 All projects here are personal work, built in my own time, independent of any employer past or present.
 
